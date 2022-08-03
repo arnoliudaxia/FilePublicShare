@@ -4,3 +4,7 @@
 
 ## jsDeliver CDN
 地址：https://cdn.jsdelivr.net/gh/arnoliudaxia/FilePublicShare@master/仓库内文件相对路径
+
+## cloudflare worker 部署
+已经利用cloudflare worker同步该仓库
+地址：https://ca3e41d9.filepublicshare.pages.dev/仓库内文件相对路径
