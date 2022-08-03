@@ -9,6 +9,6 @@
 
 ## cloudflare worker 部署
 已经利用cloudflare worker同步该仓库
-地址：https://ca3e41d9.filepublicshare.pages.dev/仓库内文件相对路径
+地址：https://filepublicshare.pages.dev/仓库内文件相对路径
 
 国内访问**非常不稳定**，实时和仓库同步
