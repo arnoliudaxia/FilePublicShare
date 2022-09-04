@@ -11,6 +11,7 @@
 ## Azure static App 镜像
 
 地址1(cloudflare DNS)：https://fileshare-mirror.arnoliu.top/仓库内文件相对路径
+
 地址2(Aliyun DNS)：https://fileshare-mirrorc.liuyf7.top/仓库内文件相对路径
 
 国内可以访问，速度理应不错，Azure的水平大家都知道吧。
