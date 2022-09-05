@@ -1,6 +1,6 @@
-🗃️ 这里是爷的文件分享站
-> 为了速度考量，所有在Onedrive上的资源在国内只能访问小文件。\
-> 如果需要高速下载前往[Zfile](https://zfile.liuyf7.top/)分流站点下载，该站点通过cloudflare的反代在挂ladder后下载速度极快。
+🗃️ 这里是爷的文件分享站![img](https://img.shields.io/badge/Arno-fileshare-green)
+> 这个文件分享站的主要用途是真的文件分享，并不提供文件支链的功能。
+> 一些笔者自己用的文件直链是用github搭配CDN实现的。参见[repo](https://github.com/arnoliudaxia/FilePublicShare)
 
 - 🌟阿里云盘（主力存储）
   - /常用开发环境Ali：部署于**阿里云盘**，存放一些常用的开发环境包
