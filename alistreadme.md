@@ -2,7 +2,7 @@
 > 这个文件分享站的主要用途是真的文件分享，并不提供文件支链的功能。
 > 一些笔者自己用的文件直链是用github搭配CDN实现的。参见[repo](https://github.com/arnoliudaxia/FilePublicShare)
 
-- 🌟阿里云盘（主力存储）
+- 🌟[阿里云盘](https://www.aliyundrive.com/drive/)（主力存储）
   - /常用开发环境Ali：部署于**阿里云盘**，存放一些常用的开发环境包
   - /固件包：存放各种硬件设备的固件
 - Onedrive（优先储存存档文件）
