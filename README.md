@@ -22,6 +22,12 @@
 
 国内可以访问，速度理应不错，Azure的水平大家都知道吧。
 
+## Statically公共CDN
+
+参考：https://statically.io/
+
+地址：https://cdn.statically.io/gh/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
+
 ## FastGit UK 代理 github
 
 缺少长期使用体验
