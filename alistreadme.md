@@ -4,7 +4,6 @@
 
 - 🌟[阿里云盘](https://www.aliyundrive.com/drive/)（主力存储）
   - /常用开发环境：部署于**阿里云盘**，存放一些常用的开发环境包
-  - /固件包：存放各种硬件设备的固件
 - Onedrive ⛔
 - 百度网盘（大于20M的文件下载受限）⭐
   - /软件包：各平台常用软件收藏
@@ -23,6 +22,6 @@
 
 > 本readme地址：https://github.com/arnoliudaxia/FilePublicShare/blob/main/alistreadme.md
 > 
-> Alist 官方文档：https://alist-doc.nn.ci/docs/intro
-
+> Alist 官方文档：https://alist.nn.ci/zh/guide/
+> 
 ![img](https://api.puresys.net/)
