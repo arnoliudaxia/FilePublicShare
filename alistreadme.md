@@ -5,7 +5,9 @@
 - 🌟[阿里云盘](https://www.aliyundrive.com/drive/)（主力存储）
   - /常用开发环境：部署于**阿里云盘**，存放一些常用的开发环境包
 - Onedrive ⛔
+  - 由于onedrive国际版在国内并不稳定遂弃用 
 - 百度网盘（大于20M的文件下载受限）⭐
+  - 注意：使用官方接口需要使用`curl -L -X GET 'YOUR_LINK' -H 'User-Agent:pan.baidu.com'`
   - /软件包：各平台常用软件收藏
   - /电子书：个人收集的各个领域内的电子书，还包括研究的论文等
 
