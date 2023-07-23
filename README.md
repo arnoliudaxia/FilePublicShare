@@ -15,13 +15,6 @@
 地址：https://arnoliudaxia.github.io/FilePublicShare/仓库内文件相对路径
 
 
-
-## FastGit UK 代理 github
-
-速度~100KB/s
-
-地址：https://raw.fastgit.org/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
-
 ## :star:GitHub Proxy(Gh)
 
 速度>1MB/s
@@ -53,4 +46,7 @@ http://23.94.208.221:49156/https://raw.githubusercontent.com/arnoliudaxia/FilePu
 
 国内**无法访问**，实时和仓库同步
 
+## ~~FastGit UK 代理 github~~
+
+SSL证书过期
 
