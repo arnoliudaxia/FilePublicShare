@@ -28,12 +28,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/arnoliudaxia/FilePublicSha
 https://github.moeyy.xyz/https://raw.githubusercontent.com/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
 
 
-## 个人备用
-
-速度~50KB/s
-
-http://23.94.208.221:49156/https://raw.githubusercontent.com/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
-
 ## ~~jsDeliver CDN~~
 
 国内访问**不太稳定**，同步仓库的频率比较低
