@@ -1,5 +1,6 @@
 ## Clash 教程收集
 - https://docs.cfw.lbyczf.com/
+- https://yattazen.com/tutorial/clash-custom-config.html
 
 ## 分流规则 list文件说明
 
