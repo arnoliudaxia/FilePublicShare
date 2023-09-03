@@ -8,11 +8,7 @@
 
 地址：https://raw.githubusercontent.com/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
 
-## github page
 
-国内也可以访问，实时同步，非常nice(~10KB/s)
-
-地址：https://arnoliudaxia.github.io/FilePublicShare/仓库内文件相对路径
 
 
 ## :star:GitHub Proxy(Gh)
@@ -32,6 +28,14 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/arnoliudaxia/FilePubl
 速度??
 
 https://dwapok.onrender.com/仓库内文件相对路径
+
+## ~~github page~~
+
+[![pages-build-deployment](https://github.com/arnoliudaxia/FilePublicShare/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/arnoliudaxia/FilePublicShare/actions/workflows/pages/pages-build-deployment)
+
+~~国内也可以访问，实时同步，非常nice(~10KB/s)~~ 由于github action错误，懒得修复了，遂弃用
+
+~~地址：https://arnoliudaxia.github.io/FilePublicShare/仓库内文件相对路径~~
 
 
 ## ~~jsDeliver CDN~~
