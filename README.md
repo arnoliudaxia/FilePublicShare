@@ -1,6 +1,6 @@
 # FilePublicShare
 
-这个仓库专门用来存放一些资源文件，然后用各种公共CDN提供加速服务。目前可以用jsDeliver和cloudflare
+这个仓库专门用来存放一些资源文件，然后用各种公共CDN提供加速服务。
 
 ## ⚠️rawgithub 
 
@@ -26,6 +26,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/arnoliudaxia/FilePublicSha
 速度~10MB/s
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
+
+## Render
+
+速度??
+
+https://dwapok.onrender.com/仓库内文件相对路径
 
 
 ## ~~jsDeliver CDN~~
