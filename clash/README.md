@@ -2,7 +2,12 @@
 - https://docs.cfw.lbyczf.com/
 - https://yattazen.com/tutorial/clash-custom-config.html
 
-## 分流规则 list文件说明
+## Clash全局配置文件
+
+https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/GeneralClashConfig.yml
+
+
+## 分流碎片规则 list文件说明
 
 ```
 # 表示包含xxx.com域名后缀下的所有网站链接

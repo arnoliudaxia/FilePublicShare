@@ -1,8 +1,11 @@
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,bard
 DOMAIN-KEYWORD,poe
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,ai.ls
 DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,oaistatic
+# Bing
+# From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
