@@ -1,6 +1,9 @@
 DOMAIN-KEYWORD,openai
+# Goolge
 DOMAIN-KEYWORD,bard
 DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+# others
 DOMAIN-KEYWORD,poe
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,ai.ls
