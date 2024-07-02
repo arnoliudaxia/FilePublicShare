@@ -15,7 +15,7 @@
 
 速度>1MB/s
 
-https://ghproxy.com/https://raw.githubusercontent.com/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
+ https://mirror.ghproxy.com/https://raw.githubusercontent.com/arnoliudaxia/FilePublicShare/main/仓库内文件相对路径
 
 ## :star:moeyy
 
@@ -29,13 +29,13 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/arnoliudaxia/FilePubl
 
 https://dwapok.onrender.com/仓库内文件相对路径
 
-## ~~github page~~
+## github page
 
 [![pages-build-deployment](https://github.com/arnoliudaxia/FilePublicShare/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/arnoliudaxia/FilePublicShare/actions/workflows/pages/pages-build-deployment)
 
-~~国内也可以访问，实时同步，非常nice(~10KB/s)~~ 由于github action错误，懒得修复了，遂弃用
+国内也可以访问，实时同步，非常nice(~10KB/s) 
 
-~~地址：https://arnoliudaxia.github.io/FilePublicShare/仓库内文件相对路径~~
+地址：https://arnoliudaxia.github.io/FilePublicShare/仓库内文件相对路径
 
 
 ## ~~jsDeliver CDN~~
@@ -48,7 +48,7 @@ https://dwapok.onrender.com/仓库内文件相对路径
 
 ## ~~cloudflare worker 部署~~
 
-国内**无法访问**，实时和仓库同步
+国内**无法访问**，实时和仓库同步，倒是可以尝试用一个自己的域名套个壳，但没必要。
 
 ## ~~FastGit UK 代理 github~~
 
